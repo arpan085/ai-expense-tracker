@@ -10,7 +10,7 @@ A professional desktop application for tracking income and expenses with AI-powe
 - **Beautiful UI**: Modern CustomTkinter interface with dark mode support
 - **Charts & Reports**: Visual representations of spending patterns
 - **Export Options**: PDF and Excel export functionality
-- **Budget Management**: Set and track budget limits
+- **Budget Management**: Set and track budget limits 
 - **Notifications**: Real-time alerts for budget thresholds
 - **Database**: SQLite with SQLAlchemy ORM
 - **Backup & Recovery**: Automatic backup and recovery features
