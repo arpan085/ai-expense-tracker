@@ -16,7 +16,7 @@ A professional desktop application for tracking income and expenses with AI-powe
 - **Backup & Recovery**: Automatic backup and recovery features
 - **Search & Filter**: Advanced filtering and sorting capabilities
 - **Responsive Design**: Professional layout with animations
-
+ 
 ## System Requirements
 
 - **Python**: 3.12 or higher
