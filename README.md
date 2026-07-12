@@ -9,7 +9,7 @@ A professional desktop application for tracking income and expenses with AI-powe
 - **AI-Powered Analysis**: Google Generative AI integration for spending insights
 - **Beautiful UI**: Modern CustomTkinter interface with dark mode support
 - **Charts & Reports**: Visual representations of spending patterns
-- **Export Options**: PDF and Excel export functionality
+- **Export Options**: PDF and Excel export functionality     
 - **Budget Management**: Set and track budget limits 
 - **Notifications**: Real-time alerts for budget thresholds
 - **Database**: SQLite with SQLAlchemy ORM
