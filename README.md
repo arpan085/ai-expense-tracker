@@ -11,7 +11,7 @@ A professional desktop application for tracking income and expenses with AI-powe
 - **Charts & Reports**: Visual representations of spending patterns
 - **Export Options**: PDF and Excel export functionality     
 - **Budget Management**: Set and track budget limits 
-- **Notifications**: Real-time alerts for budget thresholds
+- **Notifications**: Real-time alerts for budget thresholdsaaa
 - **Database**: SQLite with SQLAlchemy ORM
 - **Backup & Recovery**: Automatic backup and recovery features
 - **Search & Filter**: Advanced filtering and sorting capabilities
