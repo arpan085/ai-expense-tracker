@@ -7,7 +7,7 @@ A professional desktop application for tracking income and expenses with AI-powe
 - **User Authentication**: Secure login system with password hashing
 - **Income & Expense Tracking**: Complete CRUD operations for financial records
 - **AI-Powered Analysis**: Google Generative AI integration for spending insights 
-- **Beautiful UI**: Modern CustomTkinter interface with dark mode support
+- **Beautiful UI**: Modern CustomTkinter interface with dark mode supportaa
 - **Charts & Reports**: Visual representations of spending patterns
 - **Export Options**: PDF and Excel export functionality     
 - **Budget Management**: Set and track budget limits 
