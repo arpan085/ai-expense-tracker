@@ -15,7 +15,7 @@ A professional desktop application for tracking income and expenses with AI-powe
 - **Database**: SQLite with SQLAlchemy ORM
 - **Backup & Recovery**: Automatic backup and recovery features
 - **Search & Filter**: Advanced filtering and sorting capabilities
-- **Responsive Design**: Professional layout with animations
+- **Responsive Design**: Professional layout with animationsaa
  
 ## System Requirements
 
