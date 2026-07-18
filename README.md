@@ -3,7 +3,7 @@ aaaaaaaa
 A professional desktop application for tracking income and expenses with AI-powered spending analysis, beautiful UI, and comprehensive reporting features.
   
 ## Features ✨    aa  
-     
+     aaa
 - **User Authentication**: Secure login system with password hashing
 - **Income & Expense Tracking**: Complete CRUD operations for financial records   aaaa  
 - **AI-Powered Analysis**: Google Generative AI integration for spending insights 
