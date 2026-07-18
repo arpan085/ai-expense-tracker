@@ -1,6 +1,6 @@
 aaa  a# AI Expense Tracker 💰asssssssssss
 aaaaaaaa
-A professional desktop application for tracking income and expenses with AI-powered spending analysis, beautiful UI, and comprehensive reporting features.
+A professional desktop application for tracking income and expenses with AI-powered spending analysis, beautiful UI, and comprehensive reporting features.aaaaaaaa
   
 ## Features ✨    aa  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
      aaa
