@@ -2,7 +2,7 @@ aaa  a# AI Expense Tracker 💰
 aaaaaaaa
 A professional desktop application for tracking income and expenses with AI-powered spending analysis, beautiful UI, and comprehensive reporting features.
   
-## Features ✨    aa  
+## Features ✨    aa  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
      aaa
 - **User Authentication**: Secure login system with password hashing
 - **Income & Expense Tracking**: Complete CRUD operations for financial records   aaaa  
