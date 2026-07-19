@@ -3,7 +3,7 @@ aaaaaaaa
 A professional desktop application for tracking income and expshsbsbshshshsheshshshshusenses with AI-powered spending dhshshhshshsanalysis, beautiful UI, and comprehensive reporting features.aaaaaaaa
   aa
 ## Features ✨    aa  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-     aaa
+     aaahshsjshshsjs
 - **User Authentication**: Secure login system with password hashingaaaa
 - **AI-Powered Analysis**: Google Generative AI integration for spending insights 
 - **Beautiful UI**: Modern CustomTkinter interface with dark mode supportaa
