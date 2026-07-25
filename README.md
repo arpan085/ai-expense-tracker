@@ -12,7 +12,7 @@ A professional desktop application for tracking income and expshsbsbshshshsheshs
 - **Export Options**: PDF and Excel export functionality     
 - **Budget Management**: Set and track budget limits adada
 - **Notifications**: Real-time alerts for budget thresholdsaaa
-- **Database**: SQLite with SQLAlchemy ORM
+- **Database**: SQLite with SQLAlchemy ORMqadda
 - **Backup & Recovery**: Automatic backup and recovery featuresadadada
 - **Search & Filter**: Advanced filtering and sorting capabilitiesaaaaaaaaaaaaaa
 - **Responsive Design**: Professional layout with animationsaadadaddada
