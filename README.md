@@ -10,7 +10,7 @@ A professional desktop application for tracking income and expshsbsbshshshsheshs
 - **Beautiful UI**: Modern CustomTkinter interface with dark mode supportaadad
 - **Charts & Reports**: Visual representations of spending patterns
 - **Export Options**: PDF and Excel export functionality     
-- **Budget Management**: Set and track budget limits 
+- **Budget Management**: Set and track budget limits adada
 - **Notifications**: Real-time alerts for budget thresholdsaaa
 - **Database**: SQLite with SQLAlchemy ORM
 - **Backup & Recovery**: Automatic backup and recovery features
