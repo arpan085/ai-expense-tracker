@@ -15,7 +15,7 @@ A professional desktop application for tracking income and expshsbsbshshshsheshs
 - **Database**: SQLite with SQLAlchemy ORM
 - **Backup & Recovery**: Automatic backup and recovery featuresada
 - **Search & Filter**: Advanced filtering and sorting capabilitiesaaaaaaaaaaaaaa
-- **Responsive Design**: Professional layout with animationsaa
+- **Responsive Design**: Professional layout with animationsaadadad
  
 ## System Requirements
 
