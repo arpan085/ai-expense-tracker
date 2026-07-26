@@ -9,7 +9,7 @@ A professional desktop application for tracking income and expshsbsbshshshsheshs
 - **AI-Powered Analysis**: Google Generative AI integration for spending insights dadad
 - **Beautiful UI**: Modern CustomTkinter interface with dark mode supportaadad
 - **Charts & Reports**: Visual representations of spending patterns
-- **Export Options**: PDF and Excel export functionality     adaad
+- **Export Options**: PDF and Excel export functionality     adaaddadad
 - **Budget Management**: Set and track budget limits adada
 - **Notifications**: Real-time alerts for budget thresholdsaaa
 - **Database**: SQLite with SQLAlchemy ORMqadda
