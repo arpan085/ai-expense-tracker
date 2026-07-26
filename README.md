@@ -1,4 +1,4 @@
-hshsjsisisshshsaaa  a# AI Expense Tracker 💰asssssssssss
+dadadhshsjsisisshshsaaa  a# AI Expense Tracker 💰asssssssssss
 aaaaaaaa wowwo cool
 
 A professional desktop application for tracking income and expshsbsbshshshsheshshshhshshshsshushssjjshsenses with AI-powered spending hsshhshseadwaadhshshhshshsanalysis, beautiful UI, and comprehensive reporting features.aaaaaaaa
@@ -11,7 +11,7 @@ A professional desktop application for tracking income and expshsbsbshshshsheshs
 - **Charts & Reports**: Visual representations of spending patterns
 - **Export Options**: PDF and Excel export functionality     adaaddadad
 - **Budget Management**: Set and track budget limits adada
-- **Notifications**: Real-time alerts for budget thresholdsaaa
+- **Notifications**: Real-time alerts for budget dadadadad
 - **Database**: SQLite with SQLAlchemy ORMqaddadadadadadadada
 - **Backup & Recovery**: Automatic backup and recovery featuresadadada
 - **Search & Filter**: Advanced filtering and sorting capabilitiesaaaaaaaaaaaaaadadadad
