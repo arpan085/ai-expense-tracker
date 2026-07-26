@@ -16,7 +16,7 @@ A professional desktop application for tracking income and expshsbsbshshshsheshs
 - **Backup & Recovery**: Automatic backup and recovery featuresadadada
 - **Search & Filter**: Advanced filtering and sorting capabilitiesaaaaaaaaaaaaaadadadaddadadada
 - **Responsive Design**: Professional layout with animationsaadadaddada
- 
+ SAD
 ## System Requirements
 
 - **Python**: 3.12 or higher
