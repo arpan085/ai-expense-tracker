@@ -4,7 +4,7 @@ aaaaaaaa wowwo cool
 A professional desktop application for tracking income and expshsbsbshshshsheshshshhshshshsshushssjjshsenses with AI-powered spending hsshhshseadwaadhshshhshshsanalysis, beautiful UI, and comprehensive reporting features.aaaaaaaa
   aa
 ## Features ✨    aa  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadad
-- **User Authentication**: Secure login system with password hashingaaaa
+- **User Authentication**: Secure login system with password hashingaaaadadada
 - **AI-Powered Analysis**: Google Generative AI integration for spending insights dadad
 - **Beautiful UI**: Modern CustomTkinter interface with dark mode supportaadadadadad
 - **Charts & Reports**: Visual representations of spending DADADADADADdadaddadada
