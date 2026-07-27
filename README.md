@@ -5,7 +5,7 @@ A professional desktop application for tracking income and expshsbsbshshshsheshs
   aa
 ## Features ✨    aa  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadad
 - **User Authentication**: Secure login system with password hashingaaaadadada
-- **AI-Powered Analysis**: Google Generative AI integration for spending insights dadad
+- **AI-Powered Analysis**: Google Generative AI integration for spending insights dadadaddada
 - **Beautiful UI**: Modern CustomTkinter interface with dark mode supportaadadadadad
 - **Charts & Reports**: Visual representations of spending DADADADADADdadaddadada
 - **Export Options**: PDF and Excel export functionality     adaaddadad
