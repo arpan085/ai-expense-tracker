@@ -13,7 +13,7 @@ A professional desktop application for tracking income and expshsbsbshshshsheshs
 - **Notifications**: Real-time alerts for budget dadadadad
 - **Database**: SQLite with SQLAlchemy ORMqaddadadadadadadadaADDADAD
 - **Search & Filter**: Advanced filtering and sorting capabilitiesaaaaaaaaaaaaaadadadaddadadada
-- **Responsive Design**: Professional layout with animationsaadadaddada
+- **Responsive Design**: Professional layout with animationsaadadaddadadadada
  SAD
 ## System Requirements
 
