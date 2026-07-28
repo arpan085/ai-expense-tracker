@@ -13,7 +13,7 @@ A professional desktop application for tracking income and expshsbsbshshshsheshs
 - **Search & Filter**: Advanced filtering and sorting capabilitiesaaaaaaaaaaaaaadadadaddadadada
 - **Responsive Design**: Professional layout with animationsaadadaddadadadadadadadadad
  SAD
-## System Requirements
+## System Requirementsadsssssssssssssssssssssssssssss
 
 - **Python**: 3.12 or higher
 - **OS**: Windows, macOS, or Linux
