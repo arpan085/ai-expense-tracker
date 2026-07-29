@@ -14,7 +14,7 @@ A professional desktop application for tracking income and expshsbsbshshshsheshs
 - **Responsive Design**: Professional layout with animationsaadadaddadadadadadadadadad
  SAD
 ## System Requirementsadsssssssssssssssssssssssssssss
-
+dadadad
 - **Python**: 3.12 or higher
 - **OS**: Windows, macOS, or Linux
 - **RAM**: Minimum 2GB
